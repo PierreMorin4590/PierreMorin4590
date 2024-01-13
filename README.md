@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+💬 I'm Pierre, and I work hard to become a web developer.
+
+🌱 I’m currently learning web development at O'clock school
+📱 I was Community Manager & Social Media Manager for 7 years in communications agencies
+📚 I love learning new things and web development has always attracted me, so... I decided to take the plunge and here I am !
+📄 I will put some projects online on my GitHub to keep track of my progress. I am open to any comments that can help me improve.
+
+🥰 I think I already have a big preference for backend development.
+
 <!--
 **PierreMorin4590/PierreMorin4590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
