@@ -11,7 +11,7 @@
   
 🥰 I think I already have a big preference for backend development.
 
-![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white})
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <!--
 **PierreMorin4590/PierreMorin4590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
