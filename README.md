@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 I'm Pierre, and I'm working hard to become a web developer.  
+💬 I'm Pierre, and I'm currently a **Document Automation Developer** on **OpenText Exstream**. 
 🤓 Currently, I'm learning **React** as a self-taught student.  
   
 🌱 I learned web development at O'clock school.  
@@ -22,6 +22,7 @@
 ![image](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/OpenText_Exstream-Éditique-blue?style=for-the-badge)
 
 
 <!--
